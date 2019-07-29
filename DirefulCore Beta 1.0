@@ -1,0 +1,21 @@
+#------------------------------------------------------------------------
+#
+#                   DIREFULCORE 
+#                   Version: Beta 1.1
+#------------------------------------------------------------------------
+#
+command /setrank [<offline player>] [<text>]:
+	permission: permissions.*
+	permission message: &7This requires the permissions to use permissionsex.
+	trigger:
+		if arg-1 is not set:
+			send "&4&lDireful &8» &7Correct usage &c/setrank &7<player> <group>"
+		if arg-2 is set:
+			execute console command "pex user %arg-1% group set %arg-2%"		
+			send "&4&lDireful &8» &7%arg-1%'s rank has been set to &c%arg-2%."
+			send "&4&lDireful &8» &7Your rank has been set to &c%arg-2%&7." to arg-1
+
+#
+#------------------------------------------------------------------------
+#
+#------------------------------------------------------------------------
