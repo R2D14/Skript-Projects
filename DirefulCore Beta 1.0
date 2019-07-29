@@ -37,3 +37,148 @@ command /version:
 		send "&7Developed and maintained by &c{@author1} &7and &c{@author2}"		
 #
 #------------------------------------------------------------------------
+#        
+command /pl:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /plugins:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /?:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /bukkit:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /epl:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /end:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /server:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /eplugins:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /bukkit:help:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command //?:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /calc:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /icanhasbukkit:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /about:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /bukkit:pl:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /bukkit:plugins:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /bukkit:?:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /eabout:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /bukkit:about:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /bukkit:ver:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /calculate:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command //solve:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command //worldedit:/eval:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /worldedit:/eval:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /solve:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command //calc:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /reload:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /rl:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."		
+command /stop:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /restart:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /eop:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /essentials:op:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /essentials:eop:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /edeop:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /superpickaxe:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command //superpickaxe:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command //sp:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /sp:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /essentials:deop:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /essentials:edeop:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /op:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /deop:
+	trigger:
+		message "&4&lDireful &8» &7Unknowven command. Type &c/help &7for help."
+command /me:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /minecraft:me:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /minecraft:op:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /minecraft:pl:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /minecraft:deop:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /minecraft:tp:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
+command /minecraft:defaultgamemode:
+	trigger:
+		message "&4&lDireful &8» &7Unknown command. Type &c/help &7for help."
