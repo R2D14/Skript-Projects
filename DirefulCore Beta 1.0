@@ -4,6 +4,14 @@
 #                   Version: Beta 1.1
 #------------------------------------------------------------------------
 #
+options:
+		version: Beta 1.0
+		author1: NicholasPlays
+		author2: HackedUserAI
+		prefix: 
+#
+#------------------------------------------------------------------------
+#	
 command /setrank [<offline player>] [<text>]:
 	permission: permissions.*
 	permission message: &7This requires the permissions to use permissionsex.
@@ -17,5 +25,15 @@ command /setrank [<offline player>] [<text>]:
 
 #
 #------------------------------------------------------------------------
+#
+#
+command /ver:
+	trigger:
+		send "&7This network is running &cDirefulCore {@version}&7."
+		send "&7Developed and maintained by &c{@author1} &7and &c{@author2}"
+command /version:
+	trigger:
+		send "&7This network is running &cDirefulCore {@version}&7."
+		send "&7Developed and maintained by &c{@author1} &7and &c{@author2}"		
 #
 #------------------------------------------------------------------------
